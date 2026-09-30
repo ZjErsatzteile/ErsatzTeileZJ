@@ -7,7 +7,7 @@ Eine responsive blau-schwarze KFZ-Ersatzteile-Webseite mit WhatsApp-Anfrageformu
 - `index.html` – komplette Website
 - `style.css` – Design, Animationen und Responsive Layout
 - `script.js` – WhatsApp-Anfrageformular
-- `assets/` – Platz für eigene Ersatzteilbilder
+- `assets/ersatzteile-showcase.png` – große KFZ-Ersatzteile-Showcase-Grafik im Hero-Bereich
 
 ## Auf GitHub veröffentlichen
 
